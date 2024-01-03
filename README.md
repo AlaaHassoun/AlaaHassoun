@@ -1,8 +1,10 @@
-### Hi there 👋, I'm @iamaladdin (Alaa Hassoun) 👋
+### Hi there, I'm [@iamaladdin](https://github.com/iamaladdin) (Alaa Hassoun) 👋
 
 I'm a Front-End Developer from Morocco. 🇲🇦
 
 I currently live in Montreal, Canada. 🇨🇦
+
+My scope of expertise is JavaScript/ReactJS and I am interested also in creative web development, which is the creation of interactive 3D experiences and immersive animations on the web using JavaScript/ThreeJs/WebGL. 🤖 🎨
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)

@@ -1,4 +1,4 @@
-### Hi there, I'm [@thegold-finch](https://github.com/thegold-finch) (Alaa Hassoun) 👋
+### Hi there, I'm Alaa Hassoun 👋
 
 I'm a Front-End Developer from Morocco. 🇲🇦
 
